@@ -1,4 +1,4 @@
-# Swin-UNETR Covid segmentation
+# SwinUNETR Covid segmentation
 ## Overview
 ### About
 This project aims to compare transformer-based and fully-convolutional segmentation models.
