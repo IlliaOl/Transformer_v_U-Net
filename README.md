@@ -2,7 +2,7 @@
 ## Overview
 ### About
 This project aims to compare transformer-based and fully-convolutional segmentation models.
-We are comparing five models (three fully-convolutional and two transformer based):
+We are comparing five models (three fully-convolutional and two transformer-based):
   - U-Net
   - Basic U-Net
   - Flexible U-Net
