@@ -22,5 +22,5 @@ The results of the research are presented in the following table and graph:
 | UNETR          |  0.79  |    0.76   |0.76| 0.64| 0.76| 0.24 |          3200       |
 | SwinUNETR      |  0.81  |    0.78   |0.78| 0.66| 0.77| 0.23 |          3600       |
 
-![Comparison graph](https://github.com/IlliaOl/Swin-UNETR_Covid_segmentation/assets/77388859/25a4102e-a53a-443b-bc28-824b1503a9f5)
+![Comparison graph](https://raw.githubusercontent.com/IlliaOl/Transformers_v_U-Net/main/graph.png)
 
