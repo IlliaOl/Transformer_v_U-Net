@@ -1,4 +1,4 @@
-# SwinUNETR Covid segmentation
+# Transformers v. U-Net
 ## Overview
 ### About
 This project aims to compare transformer-based and fully-convolutional segmentation models.
