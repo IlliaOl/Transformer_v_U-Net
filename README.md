@@ -1,4 +1,4 @@
-# Transformers v. U-Net
+# Transformer v. U-Net
 ## Overview
 ### About
 This project aims to compare transformer-based and fully-convolutional segmentation models.
