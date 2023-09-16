@@ -7,7 +7,7 @@ We are comparing five models (three fully-convolutional and two transformer-base
   - Basic U-Net
   - Flexible U-Net
   - UNETR
-  - SwinUNETR
+  - Swin UNETR
 
 ### Data
 Models are trained on [COVID-19 lesion segmentation dataset](https://www.kaggle.com/datasets/maedemaftouni/covid19-ct-scan-lesion-segmentation-dataset). This dataset merges the COVID-19 lesion masks and their corresponding frames of 3 public datasets, with 2729 image and ground truth mask pairs.
@@ -20,7 +20,7 @@ The results of the research are presented in the following table and graph:
 | Basic U-Net    |  0.81  |    0.69   |0.72| 0.58| 0.72| 0.29 |          1980       |
 | Flexible U-Net |  0.74  |    0.77   |0.72| 0.59| 0.72| 0.28 |          2580       |
 | UNETR          |  0.79  |    0.76   |0.76| 0.64| 0.76| 0.24 |          3200       |
-| SwinUNETR      |  0.81  |    0.78   |0.78| 0.66| 0.77| 0.23 |          3600       |
+| Swin UNETR     |  0.81  |    0.78   |0.78| 0.66| 0.77| 0.23 |          3600       |
 
 ![Comparison graph](https://raw.githubusercontent.com/IlliaOl/Transformers_v_U-Net/main/graph.png)
 
