@@ -10,7 +10,7 @@ We are comparing five models (three fully-convolutional and two transformer-base
   - SwinUNETR
 
 ### Data
-Models are trained on [COVID-19 lesion segmentation dataset](https://www.kaggle.com/datasets/maedemaftouni/covid19-ct-scan-lesion-segmentation-dataset). This dataset merges the COVID-19 lesion masks and their corresponding frames of these 3 public datasets, with 2729 image and ground truth mask pairs.
+Models are trained on [COVID-19 lesion segmentation dataset](https://www.kaggle.com/datasets/maedemaftouni/covid19-ct-scan-lesion-segmentation-dataset). This dataset merges the COVID-19 lesion masks and their corresponding frames of 3 public datasets, with 2729 image and ground truth mask pairs.
 
 ## Results
 The results of the research are presented in the following table and graph:
